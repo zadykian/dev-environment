@@ -1,30 +1,27 @@
 # WIP
 
-## tools being installed
+## tools being installed via winget
 
-Google Chrome  
-Telegram  
-Win 10 Tweaker  
-AIDA64  
+location: $"C:\Tools\{toolName}"
 
-.NET 6 SDK  
+Google.Chrome  
+Telegram.TelegramDesktop  
+FinalWire.AIDA64.Extreme  
+
+Microsoft.dotnet  
 DevToys  
-PowerShellCore  
-Git  
-WSL + Ubuntu 22.04  
-Docker Desktop  
+Microsoft.PowerShell  
+Git.Git  
+Ubuntu 22.04 LTS  
+Docker.DockerDesktop
 
-JetBrains  
-* Rider  
-* DataGrip  
-* dotTrace  
-* dotMemory  
-* dotPeek  
+JetBrains.dotUltimate  
+JetBrains.DataGrip  
 
-Visual Studio 2022  
-Visual Studio Code  
+Microsoft.VisualStudioCode  
+Microsoft.VisualStudio.2019.Community  
 
 Microsoft Remote Desktop  
-mRemoteNG  
-Cisco AnyConnect  
-OpenVPN Connect  
+mRemoteNG.mRemoteNG  
+AnyConnect  
+OpenVPNTechnologies.OpenVPNConnect  
