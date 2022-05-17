@@ -18,8 +18,8 @@ Docker.DockerDesktop
 JetBrains.dotUltimate  
 JetBrains.DataGrip  
 
-Visual Studio Code  
-Visual Studio Community 2022  
+Microsoft.VisualStudioCode  
+Microsoft.VisualStudio.2019.Community  
 
 Microsoft Remote Desktop  
 mRemoteNG.mRemoteNG  
