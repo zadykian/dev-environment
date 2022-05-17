@@ -16,6 +16,8 @@ services:
   rabbit:
     container_name: rabbitmq
     image: "rabbitmq:management"
+    volumes:
+      - 'rabbitmq-volume:/var/lib/rabbitmq/mnesia/'
     ports:
       - "15672:15672"
       - "5672:5672"
@@ -52,3 +54,4 @@ services:
 volumes:
   postgres-volume:
   redis-volume:
+  rabbitmq-volume:

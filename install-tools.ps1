@@ -36,3 +36,6 @@ foreach ($packageId in $notInstalledPackages) {
 	$installLocation = Join-Path $installRootLocation $packageId
 	winget install $packageId --location $installLocation
 }
+
+# Change nuget packages cache location
+[System.Environment]::SetEnvironmentVariable("NUGET_PACKAGES", "D:\NugetPackagesCache")
