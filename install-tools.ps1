@@ -11,11 +11,11 @@ $packagesToInstall = @(
 	"Git.Git",
 	"Docker.DockerDesktop",
 
-	"JetBrains.dotUltimate",
+	"JetBrains.Rider",
 	"JetBrains.DataGrip",
 
 	"Microsoft.VisualStudioCode",
-	"Microsoft.VisualStudio.2022.Community",
+	#"Microsoft.VisualStudio.2022.Community",
 
 	"Microsoft Remote Desktop",
 	"mRemoteNG.mRemoteNG",
