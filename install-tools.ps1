@@ -14,9 +14,9 @@ $packagesToInstall = @(
 
 	"JetBrains.Rider",
 	"JetBrains.DataGrip",
-
 	"Microsoft.VisualStudioCode",
 	#"Microsoft.VisualStudio.2022.Community",
+	"SublimeHQ.SublimeText.4",
 
 	"Microsoft Remote Desktop",
 	"mRemoteNG.mRemoteNG",
