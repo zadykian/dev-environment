@@ -3,6 +3,7 @@ $installRootLocation = "C:\Tools"
 $packagesToInstall = @(
 	"Google.Chrome",
 	"Telegram.TelegramDesktop",
+	"Notion.Notion",
 	"FinalWire.AIDA64.Extreme",
 
 	"Microsoft.dotnet",
