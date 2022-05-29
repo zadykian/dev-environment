@@ -5,6 +5,7 @@ $packagesToInstall = @(
 	"Telegram.TelegramDesktop",
 	"Notion.Notion",
 	"FinalWire.AIDA64.Extreme",
+	"Logitech.Options",
 
 	"Microsoft.dotnet",
 	"DevToys",
